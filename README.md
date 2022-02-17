@@ -5,6 +5,6 @@
 - 📫 How to reach me: yi.liu.biostat[at]gmail.com
 
 <!---
-yiliu72/yi.liu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yiliu72/yiliu72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
