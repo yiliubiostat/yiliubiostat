@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yi Liu
-- 👀 I’m interested in Biostatistics!
+- 👀 I’m interested in statistical methodology and their applications in practices!
 - 🌱 I’m currently learning causal inference, missing data analysis, theory of empirical processes...
-- 💞️ I’m looking to pursue a PhD study in Statistics/Biostatistics in the next 4/5 years...
+- 💞️ I’m looking to pursue a PhD study in Statistics in the next 4-5 years...
 - 📫 How to reach me: yi.liu.biostat[at]gmail.com
 
 <!---
